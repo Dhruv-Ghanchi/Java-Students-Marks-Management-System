@@ -40,5 +40,6 @@ It integrates **Java Swing** with **MySQL** to perform real-world database opera
 
 ## 👤 Author
 
-Dhruv Ghanchi  
-GitHub: https://github.com/Dhruv-Ghanchi
+Dhruv Chandrakant Ghanchi  
+GitHub: https://github.com/Dhruv-Ghanchi  
+LinkedIn: https://www.linkedin.com/in/dhruv-ghanchi-9b0180371/
